@@ -30,7 +30,7 @@ docker-compose -f docker-compose-build.yaml build --parallel
 docker-compose up
 ```
 
-### Go to the browser and run “http://localhost:8100/” to see our Udagram application up and running with two funcaitonalities: feed and user service. “Feed” service will allow the user to upload images and “user” service will allow a user to log-in or log-out from the system.
+### Go to the browser and run http://localhost:8100/ to see our Udagram application up and running with two funcaitonalities: feed and user service. “Feed” service will allow the user to upload images and “user” service will allow a user to log-in or log-out from the system.
 
 ### Stop the project
 ```bash

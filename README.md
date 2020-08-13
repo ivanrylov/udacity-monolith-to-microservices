@@ -41,11 +41,11 @@ docker-compose down
 ### Docker images are available at:
 #### https://hub.docker.com/u/ivanrylov
 
-### Deployment
+## Deployment
 
-## Deployment configuration located at k8s](/udacity-c3-deployment/k8s)
+### Deployment configuration located at k8s](/udacity-c3-deployment/k8s)
 
-## In order to deploy project to the cloud use kubectl (https://github.com/kubermatic/kubeone)
+### In order to deploy project to the cloud use kubectl (https://github.com/kubermatic/kubeone)
 ```bash
 kubectl apply -f backend-feed-deployment.yaml 
 
